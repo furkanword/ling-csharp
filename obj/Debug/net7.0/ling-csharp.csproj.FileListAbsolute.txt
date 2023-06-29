@@ -1,0 +1,15 @@
+/home/apolM01-043/ling-csharp/bin/Debug/net7.0/ling-csharp
+/home/apolM01-043/ling-csharp/bin/Debug/net7.0/ling-csharp.deps.json
+/home/apolM01-043/ling-csharp/bin/Debug/net7.0/ling-csharp.runtimeconfig.json
+/home/apolM01-043/ling-csharp/bin/Debug/net7.0/ling-csharp.dll
+/home/apolM01-043/ling-csharp/bin/Debug/net7.0/ling-csharp.pdb
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.csproj.AssemblyReference.cache
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.AssemblyInfoInputs.cache
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.AssemblyInfo.cs
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.csproj.CoreCompileInputs.cache
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.dll
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/refint/ling-csharp.dll
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.pdb
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ling-csharp.genruntimeconfig.cache
+/home/apolM01-043/ling-csharp/obj/Debug/net7.0/ref/ling-csharp.dll
